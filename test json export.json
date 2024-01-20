@@ -1,0 +1,28 @@
+{
+    "Playlist": [
+        {
+            "id": "1",
+            "title": "enchanted",
+            "artist": "taylor swift",
+            "album": "speak now"
+        },
+        {
+            "id": "2",
+            "title": "haunted",
+            "artist": "taylor swift",
+            "album": "speak now"
+        },
+        {
+            "id": "3",
+            "title": "king of my heart",
+            "artist": "taylor swift",
+            "album": "reputation"
+        },
+        {
+            "id": "4",
+            "title": "holy ground",
+            "artist": "taylor swift",
+            "album": "red"
+        }
+    ]
+}
